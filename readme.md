@@ -2,7 +2,7 @@
 
 <img src='img/ds.jpeg' width=700></img>
 
-|nn|Раздел|Кол-во вопросов|
+|nn|Раздел|Notebook|
 |-|-|-|
-|1. | Data Science| 40
-|2. | Deep Learning| 40
+|1. | Вопросы Data Science| <a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/interview/blob/master/DS/ds_interview.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+|2. | Вопросы Deep Learning NLP| <a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/interview/blob/master/DL/dl_interview.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
